@@ -6,6 +6,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 ### Applications
 
+- [bash-stack](https://github.com/cgsdev0/bash-stack) - modern web framework in bash
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
@@ -28,8 +29,6 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [zshelldoc](https://github.com/zdharma-continuum/zshelldoc) - Doxygen For Shell Scripts
 
 ### Cool Things
-
-*All work and no play is a cruddy way to spend your day.*
 
 - [bocker](https://github.com/bash-bastion/bocker) ([original](https://github.com/p8952/bocker))
 - [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
