@@ -5,7 +5,6 @@
 In addition to this list, consider reading [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish).
 
 ## Applications
->>>>>>> 204d80e (More updates)
 
 ### Documentation Generation
 
